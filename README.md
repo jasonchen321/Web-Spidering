@@ -1,4 +1,4 @@
 # Web Spidering
 
-Static Webpage
+Static Webpage  
 Dynamic Webpage
